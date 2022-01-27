@@ -1,7 +1,7 @@
 noseX="";
 noseY="";
 function preload(){
-clown_nose= loadImage("bindi.jpeg");
+clown_nose= loadImage("bindi_img.jpeg");
 }
 function setup()
 {
